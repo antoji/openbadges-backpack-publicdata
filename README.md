@@ -1,6 +1,6 @@
 # Openbadges backpack public data
 
-A public data from backpack.openbadges.org. Extraction info: https://github.com/mozilla/openbadges-backpack/wiki/Using-the-Displayer-API
+Public data from backpack.openbadges.org. Extraction info: https://github.com/mozilla/openbadges-backpack/wiki/Using-the-Displayer-API
 
 Usage with mongodb:
 ```bash
